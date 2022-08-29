@@ -28,6 +28,10 @@ h1, h2 {
     margin-top: 20px;
 }
 
+#logo:hover {
+    font-size: 260%;
+}
+
 #nav-menu {
     font-size: 125%;
     letter-spacing: 3px;
