@@ -59,6 +59,10 @@ h1, h2 {
 
 /* Hero Image */
 
+#hero-border {
+
+}
+
 #hero-image {
     height: 700px;
     width: 100%;
