@@ -68,7 +68,7 @@ h1, h2 {
 }
 
 #hero-image {
-    height: 600px;
+    height: 650px;
     width: 100%;
     background: url('../images/14976499_10210123118368648_3678152664524703398_o.jpeg') no-repeat center center;
 
@@ -96,7 +96,7 @@ h1, h2 {
 
 #scroll-down-welcome {
     text-align: center;
-    margin: 10px 0;
+    margin: 20px 20px;
     font-size: 250%;
 }
 
@@ -106,7 +106,25 @@ h1, h2 {
 
 #left-join {
     float: left;
-    margin-left: 40px;
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     width: 50%;
+}
+
+.left-join-heading {
+    width: 70%;
+    float: left;
+    padding-left: 40px;
+    clear: both;
+    margin-bottom: 80px;
+}
+
+.left-join-heading h2 {
+    text-align: left;
+}
+
+.left-join-heading p {
+    text-align: left;
 }
 
