@@ -26,6 +26,7 @@ h1, h2 {
     font-size: 250%;
     margin-left: 40px;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #logo:hover {
@@ -103,4 +104,9 @@ h1, h2 {
     font-size: 252%;
 }
 
+#left-join {
+    float: left;
+    margin-left: 40px;
+    width: 50%;
+}
 
