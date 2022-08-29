@@ -48,3 +48,7 @@ h1, h2 {
 #nav-menu a:hover {
     border-bottom: 1px solid #FFDF00;
 }
+
+.current-page {
+    border-bottom: 1px solid #FFDF00;
+}
