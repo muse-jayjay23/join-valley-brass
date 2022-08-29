@@ -44,3 +44,7 @@ h1, h2 {
     text-decoration: none;
     color: inherit;
 }
+
+#nav-menu a:hover {
+    border-bottom: 1px solid #FFDF00;
+}
