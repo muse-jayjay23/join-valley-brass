@@ -9,7 +9,7 @@
 body {
     font-family: Amaranth, sans-serif;
     font-weight: 400;
-    color: #FFDF00;
+    color: #000080;
 }
 
 /* Header and logo rules */
@@ -18,11 +18,7 @@ h1, h2 {
     font-family: Opensans, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #FFDF00;
-}
-
-#header{
-    
+    color: #000080;
 }
 
 #logo {
@@ -54,11 +50,11 @@ h1, h2 {
 }
 
 #nav-menu a:hover {
-    border-bottom: 3px solid #FFDF00;
+    border-bottom: 3px solid #000080;
 }
 
 .current-page {
-    border-bottom: 2px solid #FFDF00;
+    border-bottom: 2px solid #000080;
 }
 
 /* Hero Image */
@@ -95,7 +91,6 @@ h1, h2 {
 #welcome-border {
     height: 600px;
     width: 100%;
-    /* background-color: blue; */
 }
 
 #scroll-down-welcome {
