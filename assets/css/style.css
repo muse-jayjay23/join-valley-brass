@@ -21,6 +21,10 @@ h1, h2 {
     color: #FFDF00;
 }
 
+#header{
+    
+}
+
 #logo {
     float: left;
     font-size: 250%;
@@ -91,13 +95,17 @@ h1, h2 {
 #welcome-border {
     height: 600px;
     width: 100%;
-    background-color: blue;
+    /* background-color: blue; */
 }
 
 #scroll-down-welcome {
     text-align: center;
-    margin: 5px 0;
+    margin: 10px 0;
     font-size: 250%;
+}
+
+#scroll-down-welcome:hover {
+    font-size: 252%;
 }
 
 
