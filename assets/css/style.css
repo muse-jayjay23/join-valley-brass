@@ -72,7 +72,7 @@ h1, h2 {
     background: url('../images/14976499_10210123118368648_3678152664524703398_o.jpeg') no-repeat center center;
 
     animation: hero-zoom;
-    animation-duration: 5s;
+    animation-duration: 4s;
     animation-fill-mode: forwards;
 }
 
