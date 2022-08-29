@@ -11,3 +11,12 @@ body {
     font-weight: 400;
     color: #FFDF00;
 }
+
+/* Header and logo rules */
+
+h1, h2 {
+    font-family: Opensans, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #FFDF00;
+}
