@@ -126,6 +126,8 @@ img {
     width: 33%;
 }
 
+/*headings and content of the welcome section*/
+
 .left-top-heading {
     width: 70%;
     float: left;
@@ -161,10 +163,18 @@ img {
 
 .right-top-heading {
     width: 70%;
-    float: left;
+    float: right;
     padding-left: 80px;
     clear: both;
     margin-bottom: 20px;
+}
+
+.right-top-heading h2 {
+    text-align: center;
+}
+
+.right-top-heading p {
+    text-align: center;
 }
 
 hr {
