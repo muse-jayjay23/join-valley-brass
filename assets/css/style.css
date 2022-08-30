@@ -115,7 +115,7 @@ img {
     margin-left: 80px;
     margin-top: 20px;
     margin-bottom: 20px;
-    width: 33%;
+    width: 33.3%;
 }
 
 #right-join {
@@ -123,7 +123,7 @@ img {
     margin-left: 80px;
     margin-top: 20px;
     margin-bottom: 20px;
-    width: 33%;
+    width: 33.3%;
 }
 
 /*headings and content of the welcome section*/
@@ -199,3 +199,23 @@ hr {
     margin: 5px 0;
 }
 
+/*footer styling */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #000080;
+}
