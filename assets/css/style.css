@@ -166,7 +166,7 @@ img {
     float: right;
     padding-left: 80px;
     clear: both;
-    margin-bottom: 20px;
+    margin-bottom: 80px;
 }
 
 .right-top-heading h2 {
@@ -174,6 +174,22 @@ img {
 }
 
 .right-top-heading p {
+    text-align: center;
+}
+
+.right-bottom-heading {
+    width: 70%;
+    float: right;
+    padding-left: 80px;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+.right-bottom-heading h2 {
+    text-align: center;
+}
+
+.right-bottom-heading p {
     text-align: center;
 }
 
