@@ -9,7 +9,7 @@
 body {
     font-family: Amaranth, sans-serif;
     font-weight: 400;
-    color: #000080;
+    color: #808080;
 }
 
 /* Header and logo rules */
@@ -27,6 +27,12 @@ h1, h2 {
     margin-left: 40px;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+    max-height: 50px;
 }
 
 #logo:hover {
@@ -109,22 +115,44 @@ h1, h2 {
     margin-left: 80px;
     margin-top: 20px;
     margin-bottom: 20px;
-    width: 50%;
+    width: 33%;
 }
 
-.left-join-heading {
+.left-top-heading {
     width: 70%;
     float: left;
-    padding-left: 40px;
+    padding-left: 80px;
+    clear: both;
+    margin-bottom: 60px;
+}
+
+.left-top-heading h2 {
+    text-align: left;
+}
+
+.left-top-heading p {
+    text-align: left;
+}
+
+.left-bottom-heading {
+    width: 70%;
+    float: left;
+    padding-left: 80px;
     clear: both;
     margin-bottom: 80px;
+    margin-top: 40px;
 }
 
-.left-join-heading h2 {
+.left-bottom-heading h2 {
     text-align: left;
 }
 
-.left-join-heading p {
+.left-bottom-heading p {
     text-align: left;
 }
 
+hr {
+    border-top: 1px solid #000080;
+    width: 100%;
+    margin: 5px 0;
+}
