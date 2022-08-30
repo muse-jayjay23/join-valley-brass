@@ -131,7 +131,7 @@ img {
 }
 
 .left-top-heading p {
-    text-align: left;
+    text-align: center;
 }
 
 .left-bottom-heading {
@@ -144,11 +144,11 @@ img {
 }
 
 .left-bottom-heading h2 {
-    text-align: left;
+    text-align: center;
 }
 
 .left-bottom-heading p {
-    text-align: left;
+    text-align: center;
 }
 
 hr {
