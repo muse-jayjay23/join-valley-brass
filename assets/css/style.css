@@ -118,6 +118,14 @@ img {
     width: 33%;
 }
 
+#right-join {
+    float: left;
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 33%;
+}
+
 .left-top-heading {
     width: 70%;
     float: left;
@@ -151,8 +159,17 @@ img {
     text-align: center;
 }
 
+.right-top-heading {
+    width: 70%;
+    float: left;
+    padding-left: 80px;
+    clear: both;
+    margin-bottom: 20px;
+}
+
 hr {
     border-top: 1px solid #000080;
     width: 100%;
     margin: 5px 0;
 }
+
