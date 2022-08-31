@@ -242,3 +242,20 @@ footer {
     /* add box-sizing:border-box to include size of border in overall screen width */
     box-sizing:border-box;
 }
+
+#upcoming-events h2 {
+    color: #fafafa;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#upcoming-events hr {
+    border-top: 1px solid #808080;
+    width: 100%;
+    margin: 5px 0;
+}
+
+#upcoming-events p {
+    color: #fafafa;
+}
