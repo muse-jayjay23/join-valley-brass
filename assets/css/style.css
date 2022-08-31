@@ -259,3 +259,11 @@ footer {
 #upcoming-events p {
     color: #fafafa;
 }
+
+/* upcomg events banner */
+
+#upcoming-events-banner h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    text-decoration: underline;
+}
