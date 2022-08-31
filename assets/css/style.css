@@ -219,3 +219,26 @@ footer {
     padding: 5%;
     color: #000080;
 }
+
+/* Upcoming events section */
+
+#upcoming-events {
+    background-image: url(../images/IMG_9208.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#upcoming-events div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 25%;
+    height: 400px;
+    float: left;
+    text-align: center;
+    border: 2px solid #808080;
+    /* add box-sizing:border-box to include size of border in overall screen width */
+    box-sizing:border-box;
+}
