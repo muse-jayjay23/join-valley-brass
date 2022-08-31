@@ -267,3 +267,16 @@ footer {
     margin-bottom: 40px;
     text-decoration: underline;
 }
+
+/* photos css */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+#photos > img {
+    width: 100%;
+}
