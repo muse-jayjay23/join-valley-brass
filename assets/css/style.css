@@ -126,6 +126,8 @@ img {
 
 .left-top-heading {
     float: left;
+    margin-top: 40px;
+    padding-bottom: 80px;
 }
 
 .left-top-heading h2 {
@@ -150,6 +152,8 @@ img {
 
 .right-top-heading {
     float: right;
+    margin-top: 40px;
+    padding-bottom: 80px;
 }
 
 .right-top-heading h2 {
