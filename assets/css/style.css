@@ -197,7 +197,7 @@ hr {
 /*footer styling */
 
 footer {
-    height: 150px;
+    height: auto;
 }
 
 .social-networks {
@@ -211,7 +211,7 @@ footer {
 .social-networks i {
     font-size: 160%;
     margin: 1%;
-    padding: 5%;
+    padding: 3%;
     color: #000080;
 }
 
@@ -221,7 +221,7 @@ footer {
     background-image: url(../images/IMG_9208.JPG);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 30% 30%;
+    background-position: 28% 28%;
     width: 100%;
     overflow: hidden;
 }
@@ -240,7 +240,6 @@ footer {
 
 #upcoming-events h2 {
     color: #fafafa;
-    padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
 }
