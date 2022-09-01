@@ -110,34 +110,26 @@ img {
     font-size: 252%;
 }
 
+/*why join us section*/
+
 #left-join {
     float: left;
-    margin-left: 80px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    width: 33.3%;
+    width: 50%;
 }
 
 #right-join {
-    float: left;
-    margin-left: 80px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    width: 33.3%;
+    float: right;
+    width: 50%;
 }
 
 /*headings and content of the welcome section*/
 
 .left-top-heading {
-    width: 70%;
     float: left;
-    padding-left: 80px;
-    clear: both;
-    margin-bottom: 20px;
 }
 
 .left-top-heading h2 {
-    text-align: left;
+    text-align: center;
 }
 
 .left-top-heading p {
@@ -145,12 +137,7 @@ img {
 }
 
 .left-bottom-heading {
-    width: 70%;
     float: left;
-    padding-left: 80px;
-    clear: both;
-    margin-bottom: 80px;
-    margin-top: 40px;
 }
 
 .left-bottom-heading h2 {
@@ -162,11 +149,7 @@ img {
 }
 
 .right-top-heading {
-    width: 70%;
     float: right;
-    padding-left: 80px;
-    clear: both;
-    margin-bottom: 80px;
 }
 
 .right-top-heading h2 {
@@ -178,11 +161,7 @@ img {
 }
 
 .right-bottom-heading {
-    width: 70%;
     float: right;
-    padding-left: 80px;
-    clear: both;
-    margin-bottom: 20px;
 }
 
 .right-bottom-heading h2 {
