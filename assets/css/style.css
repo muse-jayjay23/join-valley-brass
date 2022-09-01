@@ -124,10 +124,14 @@ img {
 
 /*headings and content of the welcome section*/
 
+/*left side*/
+
 .left-top-heading {
     float: left;
     margin-top: 40px;
+    padding-left: 80px;
     padding-bottom: 80px;
+    width: 80%;
 }
 
 .left-top-heading h2 {
@@ -140,6 +144,8 @@ img {
 
 .left-bottom-heading {
     float: left;
+    padding-left: 80px;
+    width: 80%;
 }
 
 .left-bottom-heading h2 {
@@ -150,10 +156,14 @@ img {
     text-align: center;
 }
 
+/*right side*/
+
 .right-top-heading {
     float: right;
     margin-top: 40px;
+    padding-right: 80px;
     padding-bottom: 80px;
+    width: 80%;
 }
 
 .right-top-heading h2 {
@@ -166,6 +176,8 @@ img {
 
 .right-bottom-heading {
     float: right;
+    padding-right: 80px;
+    width: 80%;
 }
 
 .right-bottom-heading h2 {
