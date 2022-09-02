@@ -114,14 +114,18 @@ h1, h2 {
 
 #left-join {
     float: left;
-    width: 50%;
+    width: 33%;
 }
 
 #right-join {
     float: right;
-    width: 50%;
+    width: 33%;
 }
 
+#center-join {
+    text-align: center;
+    width: 33%;
+}
 /*headings and content of the welcome section*/
 
 /*left side*/
