@@ -286,6 +286,10 @@ footer {
     margin-top: 20px;
 }
 
+#form-page p {
+    color: #000080;
+}
+
 input {
     width: 100%;
     padding: 15px;
@@ -301,7 +305,7 @@ input:focus {
   }
 
   #form-page hr {
-    border: 1px solid #f1f1f1;
+    border: 1px solid #808080;
     margin-bottom: 20px;
   }
 
