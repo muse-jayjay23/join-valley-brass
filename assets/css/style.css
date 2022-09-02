@@ -302,7 +302,6 @@ input {
 
 input:focus {
     background-color: #ddd;
-    outline: none;
   }
 
   #form-page hr {
@@ -311,7 +310,7 @@ input:focus {
   }
 
   #form-page h1 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
 
 #reset, #submit {
