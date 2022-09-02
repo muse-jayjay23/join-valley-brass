@@ -279,10 +279,11 @@ footer {
 
 #form-page {
     position: relative;
-    height: 600px;
+    height: auto;
     width: 60%;
     float: left;
     padding-left: 40px;
+    padding-right: 40px;
     margin-top: 20px;
 }
 
@@ -316,4 +317,9 @@ input:focus {
 #reset, #submit {
     width: 20%;
     text-align: center;
+}
+
+#contact-us-photos {
+    float: right;
+    width: 40%;
 }
