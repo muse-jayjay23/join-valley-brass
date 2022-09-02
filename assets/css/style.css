@@ -274,3 +274,23 @@ footer {
 #photos > img {
     width: 100%;
 }
+
+/*form page css */
+
+#form-page {
+    position: relative;
+    height: 600px;
+    width: 60%;
+    float: left;
+    padding-left: 40px;
+    margin-top: 20px;
+}
+
+input[type=text], input[type=email] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1; 
+}
