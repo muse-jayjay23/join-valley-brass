@@ -396,6 +396,10 @@ footer {
 
 }
 
-@media screen and (max-width: 1200px) {
-    
+@media screen and (max-width: 720px) {
+    #welcome-border {
+        width: 90%;
+        height: 1100px;
+    }
 }
+
