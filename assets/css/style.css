@@ -397,5 +397,9 @@ footer {
 }
 
 @media screen and (max-width: 900px) {
-
+    #welcome-border div {
+            width: 90%;
+            margin: 0 auto;
+            height: auto;
+    }
 }
