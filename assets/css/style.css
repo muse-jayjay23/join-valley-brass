@@ -402,4 +402,22 @@ footer {
             margin: 0 auto;
             height: auto;
     }
+
+    .left-top-heading, .left-bottom-heading, .right-top-heading, .right-bottom-heading {
+        width: inherit;
+    }
+
+    .left-top-heading h2, .left-bottom-heading h2, .right-top-heading h2, .right-bottom-heading h2  {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-top-heading p, .left-bottom-heading p, .right-top-heading p, .right-bottom-heading p  {
+        text-align: center;
+        padding: 0 20px;
+    }
+
+    #photos {
+        column-count: 3;
+    }
 }
