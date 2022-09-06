@@ -235,13 +235,12 @@ footer {
 
 #upcoming-events div {
     color: #fafafa;
-    background-color: rgba(0, 0, 0, .6);
+    background-color: rgba(0, 0, 0, .5);
     width: 25%;
     height: 250px;
     float: left;
     text-align: center;
     border: 2px solid #808080;
-    /* add box-sizing:border-box to include size of border in overall screen width */
     box-sizing:border-box;
 }
 
@@ -350,7 +349,7 @@ footer {
 @media screen and (max-width: 1200px) {
     #welcome-border {
         width: 100%;
-        height: 1200px;
+        height: 960px;
         margin: 0 auto;
     }
 
@@ -368,4 +367,19 @@ footer {
         width: 100%;
         padding: 4px;
     }
+
+    #center-join > img {
+        margin-top: 8px;
+    }
+
+    #upcoming-events > div {
+        width: 100%;
+        height: 160px;
+        padding: 4px;
+    }
+
+    hr {
+        display: none;
+    }
+
 }
