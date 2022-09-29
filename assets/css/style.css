@@ -396,10 +396,56 @@ footer {
 
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 450px) {
+
+    #logo {
+        width: 80%;
+    }
+
     #welcome-border {
-        width: 90%;
-        height: 1100px;
+        width: auto;
+        height: 1520px;
+        margin: 0 auto;
+    }
+
+    #logo img {
+       float: right;
+       width: auto;
+    }
+
+    #nav-menu {
+        clear: left;
+        float: left;
+        margin-left: 12px;
+        margin-bottom: 16px;
+        width: auto;
+    }
+
+    #left-join {
+        clear: both;
+        width: auto;
+        text-align: center;
+    }
+
+    #right-join {
+        text-align: center;
+        width: auto;
+    }
+
+    #center-join {
+        width: auto;
+    }
+
+    #upcoming-events {
+        width: auto;
+    }
+
+    #upcoming-events-banner {
+        width: auto;
+    }
+
+    footer {
+        width: auto;
     }
 }
 
