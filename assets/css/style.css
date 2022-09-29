@@ -455,5 +455,10 @@ footer {
     #photos {
         column-count: 2;
     }
+
+    #reset, #submit {
+        width: 40%;
+        text-align: center;
+    }
 }
 
