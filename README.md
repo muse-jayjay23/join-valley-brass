@@ -1,108 +1,120 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome muse-jayjay23,
+# Join Valley Brass
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The Join Valley Brass website is designed to give information about the brass band, why it is beneficial to be part of one and offer the opportunity to contact the band to tell them of your interest in the organisation.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+The website shows information important to this goal; showing why being in a brass band is a good thing, detailing where valley brass is performing soon so prospective members can go and see the band in action and images of the band and logo to develop awareness of the brand. 
 
-## Gitpod Reminders
+You can see the home screen on multiple devices here using dev tools - 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+![desktop screenshot](assets/images/readmephotos/desktopscreenshot.png)
+![tablet screenshot](assets/images/readmephotos/ipadscreenshot.png)
+![mobile screenshot](assets/images/readmephotos/mobilescreenshot.png)
 
-`python3 -m http.server`
+# Features 
 
-A blue button should appear to click: _Make Public_,
+1.	Navigation
 
-Another blue button should appear to click: _Open Browser_.
+The navigation menu is set at the top of the page. The left hand side has the band’s logo as well as the page logo in the bands colours of navy blue. This logo also links to the home page.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The navigation links are set to the right of the page, these link to separate pages for each link. The links are set to a grey colour to contrast the white background and have an underlining for which page you are currently on in the bands colour of navy blue.
 
-A blue button should appear to click: _Make Public_,
+The nav bar is responsive and the same throughout the website’s different pages. It has a consistent colour scheme and font as well as appropriate sizing and spacing. This allows the user to clearly see the nav links and to understand what they do and what they will see when they click them.
 
-Another blue button should appear to click: _Open Browser_.
+![nav bar screenshot](assets/images/readmephotos/navbarscreenshot.png)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+2.	Hero Image
 
-To log into the Heroku toolbelt CLI:
+The landing page has a hero image, this depicts the band at a national finals championships. Its main purpose is to put faces to the organisation, people can see other members, they can see they are dressed smartly and proud to be a part of the organisation and it shows the success the band have had.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+The image has a slight zoom upon loading that helps add a touch of interest to the user.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+![hero image screenshot](assets/images/readmephotos/heroimagescreenshot.png)
 
-------
+3.	Why Join Valley Brass?
 
-## Release History
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+This section details 4 reasons why users should consider joining the band. They are organised into two sections, left and right with a centre image. 
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+The section continues the colour theme of navy, grey and white. Headings in the biggest contrast colour, navy and paragraphs in grey. I feel this helps the user to be drawn in by the headings and invites users to read on through the paragraph.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+Each header has its own icon as a way to add a little bit more interest to the page and is underlined to again help draw attention of the user.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+The centre image is the band’s logo, continuing the theme from the navigation bar.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+![why join valley brass screenshot](assets/images/readmephotos/whyjoinscrenshot.png)
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+4.	Upcoming Events
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+This section is designed to detail upcoming band events that users may want to consider attending to listen to us before joining.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+The section is split into 4 sections each with its own header which corresponds to the type of band playing. Underneath is the venue, date and time of the event which have borders to help segregate the information in an easier to digest format.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+The background is another image of the band, this time a more relaxed image. It is positioned to show the faces of the members but also to provide a less busy image behind the text at the top of these sections.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+![upcoming events screenshot](assets/images/readmephotos/upcomingeventsscreenshot.png)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+5.	Footer
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+The footer is important to allow links to the band’s social media accounts. These are all active and linked correctly to the corresponding accounts of the organisation. The layout is very similar to that of the love running footer as it was exactly as clean and focused as I wanted for my project.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+I did adapt sizing as well as icon colour to help it better fit into the colour scheme of the website.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+All of the links open in a new tab as not to divert attention of the user.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+![footer screenshot](assets/images/readmephotos/footerscreenshot.png)
 
-------
+6.	Photos page
 
-## FAQ about the uptime script
+The photos page allows users to see more photos of the organisation in various situations, some more casual and some more formal. This page is designed to build on the intent of the hero image, adding faces to the organisation and to show off the bands accomplishments.
 
-**Why have you added this script?**
+This section is styled very similarly to the love running project as in my research this is a very clean and elegant way of presenting the images.
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+![photos page screenshot](assets/images/readmephotos/photosscreenshot.png)
 
-**How will this affect me?**
+7.	Contact us page
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+This page has the form to submit a request to join the band. The form gathers data of use for this purpose, with a focus on the user information first, then more information about what band they are interested in joining and then a text box to allow the user to add specific and unique comments for consideration by the organisation.
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+The form as different types of inputs all appropriate for the question they are adhering to.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+Questions that are needed are set as required, and questions that are tertiary are not.
 
-**So….?**
+I have kept the page simple so as not to distract from the main purpose of it. The colour scheme is in keeping with the rest of the website and the organisation itself.
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+![contact us screenshot](assets/images/readmephotos/contactusscreenshot.png)
 
-**Can I opt out?**
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+# Features left to implement – 
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+1.	I would like to add a zoom on focus mechanic to the photos page to help distinguish the photo the user is currently looking at. I did play around with this although it became too complicated and time consuming and I felt it would be better to add it to a following release.
 
-**Anything more?**
+2. I would also like to implement a feedback message for submission of the form on the form page.
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+# Testing
 
----
+1. I tested the website works on different browsers - google chrome, firefox, safari and edge.
 
-Happy coding!
+2. I confirmed that the website is responsive and looks good on all three screen sizes, desktop, tablet and mobile. I did this using the google dev tools.
+
+3. I confirmed that all aspects of the pages are readable and easy to understand
+
+4. I have confirmed that the form works, requiring inputs where appropriate
+
+# Bugs
+
+No bugs have been found currently
+
+# Validator testing
+
+1. HTML - no errors were found when running the pages through the w3c validator. There were a couple of suggestions.
+
+2. CSS - no errors were found when running the css page through the jigsaw validator.
+
+3. Accessibility - I have confirmed that colours and fonts are easy to read using lighthouse within dev tools.
+
+![lighthouse screenshot](assets/images/readmephotos/lighthousescreenshot.png)
+
+
+
+
