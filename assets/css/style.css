@@ -394,6 +394,10 @@ footer {
         display: none;
     }
 
+    #photos {
+        column-count: 3;
+    }
+
 }
 
 @media screen and (max-width: 450px) {
@@ -404,7 +408,7 @@ footer {
 
     #welcome-border {
         width: auto;
-        height: 1520px;
+        height: 1360px;
         margin: 0 auto;
     }
 
@@ -446,6 +450,10 @@ footer {
 
     footer {
         width: auto;
+    }
+
+    #photos {
+        column-count: 2;
     }
 }
 
