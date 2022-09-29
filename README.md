@@ -115,6 +115,30 @@ No bugs have been found currently
 
 ![lighthouse screenshot](assets/images/readmephotos/lighthousescreenshot.png)
 
+# Deployment
+
+The site was deployed using github pages by -
+
+1. In the correct github repository, cliking on settings
+
+2. Then clicking the pages section on the left hand side
+
+3. Making sure it is deployed form a branch
+
+4. Selcting the main branch below this and clicking save
+
+# Credits 
+
+1. The footer is heavily inspired by the CI love running project but adapted in style to better fit this use case.
+
+2. The photos page uses the gallery page form the CI love running project as a basis.
+
+# Media
+
+The images on the site are all used by consent from Valley Brass Band.
+
+The icons are from fontawesome.com
+
 
 
 
